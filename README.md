@@ -4,4 +4,4 @@ Assignment 2 DSCI310
 # Learning about version control
 ## Author: Adam Walmsley
 
-Solving merge conflicts is soooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
